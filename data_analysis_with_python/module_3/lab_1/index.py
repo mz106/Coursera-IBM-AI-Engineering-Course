@@ -134,4 +134,52 @@ engine_loc_counts = df["engine-location"].value_counts().to_frame()
 engine_loc_counts = engine_loc_counts.reset_index()
 engine_loc_counts = engine_loc_counts.rename(columns={"engine-location": "value-counts"})
 engine_loc_counts.index.name = "engine-location"
-print(engine_loc_counts)
+# print(engine_loc_counts)
+
+# ================ Grouping ==================
+
+# print(df["drive-wheels"].unique())
+
+# create a sub-df ready to be grouped
+df_group_one = df[["drive-wheels", "body-style", "price"]]
+# print(df_group_one)
+
+# group by driv wheels
+df_grouped = df_group_one.groupby(["drive-wheels"], as_index=False).agg({"price": "mean"})
+# print(df_grouped)
+
+df_gptest = df[["drive-wheels", "body-style", "price"]]
+grouped_test1 = df_gptest.groupby(["drive-wheels", "body-style"], as_index=False).mean()
+# print(grouped_test1)
+
+# cast to pivot table
+
+grouped_pivot = grouped_test1.pivot(index="drive-wheels", columns="body-style")
+grouped_pivot = grouped_pivot.fillna(0)
+print(grouped_pivot)
+
+# ==================== Question 4 =====================
+
+# Use the groupby function to find the avg price of each car based on body-style
+
+df_group_two = df[["body-style", "price"]]
+
+df_grouped_two = df_group_two.groupby(["body-style"], as_index=False).mean()
+print(df_grouped_two)
+
+# let's plot the group pivot
+
+plt.pcolor(grouped_pivot, cmap="RdBu")
+plt.colorbar()
+plt.savefig("images/heat_map_1.png")
+
+# Add some relevant labels to heatmap
+
+fig, ax = plt.subplots()
+im = ax.pcolor(grouped_pivot, cmap="RdBu")
+
+# Label names
+
+row_labels = grouped_pivot.columns.levels[1]
+col_labels = grouped_pivot.index
+

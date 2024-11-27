@@ -1,0 +1,562 @@
+[
+  {
+    "price": 532925,
+    "num_beds": 4
+  },
+  {
+    "price": 143752,
+    "num_beds": 1
+  },
+  {
+    "price": 706421,
+    "num_beds": 5
+  },
+  {
+    "price": 601505,
+    "num_beds": 5
+  },
+  {
+    "price": 87685,
+    "num_beds": 1
+  },
+  {
+    "price": 88840,
+    "num_beds": 1
+  },
+  {
+    "price": 796980,
+    "num_beds": 5
+  },
+  {
+    "price": 235959,
+    "num_beds": 2
+  },
+  {
+    "price": 170318,
+    "num_beds": 2
+  },
+  {
+    "price": 212059,
+    "num_beds": 2
+  },
+  {
+    "price": 184825,
+    "num_beds": 2
+  },
+  {
+    "price": 589893,
+    "num_beds": 4
+  },
+  {
+    "price": 203854,
+    "num_beds": 2
+  },
+  {
+    "price": 345593,
+    "num_beds": 3
+  },
+  {
+    "price": 774227,
+    "num_beds": 5
+  },
+  {
+    "price": 155359,
+    "num_beds": 2
+  },
+  {
+    "price": 134688,
+    "num_beds": 1
+  },
+  {
+    "price": 168602,
+    "num_beds": 2
+  },
+  {
+    "price": 633977,
+    "num_beds": 5
+  },
+  {
+    "price": 99194,
+    "num_beds": 1
+  },
+  {
+    "price": 229747,
+    "num_beds": 2
+  },
+  {
+    "price": 204393,
+    "num_beds": 2
+  },
+  {
+    "price": 335517,
+    "num_beds": 3
+  },
+  {
+    "price": 362537,
+    "num_beds": 3
+  },
+  {
+    "price": 149563,
+    "num_beds": 1
+  },
+  {
+    "price": 210770,
+    "num_beds": 2
+  },
+  {
+    "price": 689991,
+    "num_beds": 5
+  },
+  {
+    "price": 781727,
+    "num_beds": 5
+  },
+  {
+    "price": 611667,
+    "num_beds": 5
+  },
+  {
+    "price": 260046,
+    "num_beds": 3
+  },
+  {
+    "price": 73761,
+    "num_beds": 1
+  },
+  {
+    "price": 75509,
+    "num_beds": 1
+  },
+  {
+    "price": 96812,
+    "num_beds": 1
+  },
+  {
+    "price": 277970,
+    "num_beds": 3
+  },
+  {
+    "price": 224788,
+    "num_beds": 2
+  },
+  {
+    "price": 791845,
+    "num_beds": 5
+  },
+  {
+    "price": 672742,
+    "num_beds": 5
+  },
+  {
+    "price": 609578,
+    "num_beds": 5
+  },
+  {
+    "price": 211721,
+    "num_beds": 2
+  },
+  {
+    "price": 117155,
+    "num_beds": 1
+  },
+  {
+    "price": 88109,
+    "num_beds": 1
+  },
+  {
+    "price": 291015,
+    "num_beds": 3
+  },
+  {
+    "price": 105494,
+    "num_beds": 1
+  },
+  {
+    "price": 420015,
+    "num_beds": 4
+  },
+  {
+    "price": 394106,
+    "num_beds": 3
+  },
+  {
+    "price": 100361,
+    "num_beds": 1
+  },
+  {
+    "price": 175100,
+    "num_beds": 2
+  },
+  {
+    "price": 664802,
+    "num_beds": 5
+  },
+  {
+    "price": 298719,
+    "num_beds": 3
+  },
+  {
+    "price": 84129,
+    "num_beds": 1
+  },
+  {
+    "price": 230768,
+    "num_beds": 2
+  },
+  {
+    "price": 146928,
+    "num_beds": 1
+  },
+  {
+    "price": 405360,
+    "num_beds": 4
+  },
+  {
+    "price": 160397,
+    "num_beds": 2
+  },
+  {
+    "price": 781533,
+    "num_beds": 5
+  },
+  {
+    "price": 230896,
+    "num_beds": 2
+  },
+  {
+    "price": 650035,
+    "num_beds": 5
+  },
+  {
+    "price": 339618,
+    "num_beds": 3
+  },
+  {
+    "price": 245315,
+    "num_beds": 2
+  },
+  {
+    "price": 187331,
+    "num_beds": 2
+  },
+  {
+    "price": 192273,
+    "num_beds": 2
+  },
+  {
+    "price": 626563,
+    "num_beds": 5
+  },
+  {
+    "price": 123613,
+    "num_beds": 1
+  },
+  {
+    "price": 463019,
+    "num_beds": 4
+  },
+  {
+    "price": 119664,
+    "num_beds": 1
+  },
+  {
+    "price": 456838,
+    "num_beds": 4
+  },
+  {
+    "price": 275326,
+    "num_beds": 3
+  },
+  {
+    "price": 425081,
+    "num_beds": 4
+  },
+  {
+    "price": 143833,
+    "num_beds": 1
+  },
+  {
+    "price": 145394,
+    "num_beds": 1
+  },
+  {
+    "price": 240144,
+    "num_beds": 2
+  },
+  {
+    "price": 255143,
+    "num_beds": 3
+  },
+  {
+    "price": 268412,
+    "num_beds": 3
+  },
+  {
+    "price": 362718,
+    "num_beds": 3
+  },
+  {
+    "price": 184933,
+    "num_beds": 2
+  },
+  {
+    "price": 231371,
+    "num_beds": 2
+  },
+  {
+    "price": 649412,
+    "num_beds": 5
+  },
+  {
+    "price": 163126,
+    "num_beds": 2
+  },
+  {
+    "price": 104562,
+    "num_beds": 1
+  },
+  {
+    "price": 686512,
+    "num_beds": 5
+  },
+  {
+    "price": 99711,
+    "num_beds": 1
+  },
+  {
+    "price": 113678,
+    "num_beds": 1
+  },
+  {
+    "price": 615533,
+    "num_beds": 5
+  },
+  {
+    "price": 192146,
+    "num_beds": 2
+  },
+  {
+    "price": 494927,
+    "num_beds": 4
+  },
+  {
+    "price": 381780,
+    "num_beds": 3
+  },
+  {
+    "price": 727683,
+    "num_beds": 5
+  },
+  {
+    "price": 514725,
+    "num_beds": 4
+  },
+  {
+    "price": 182429,
+    "num_beds": 2
+  },
+  {
+    "price": 647955,
+    "num_beds": 5
+  },
+  {
+    "price": 598929,
+    "num_beds": 4
+  },
+  {
+    "price": 401413,
+    "num_beds": 4
+  },
+  {
+    "price": 251324,
+    "num_beds": 3
+  },
+  {
+    "price": 539852,
+    "num_beds": 4
+  },
+  {
+    "price": 206234,
+    "num_beds": 2
+  },
+  {
+    "price": 239847,
+    "num_beds": 2
+  },
+  {
+    "price": 523754,
+    "num_beds": 4
+  },
+  {
+    "price": 174673,
+    "num_beds": 2
+  },
+  {
+    "price": 457742,
+    "num_beds": 4
+  },
+  {
+    "price": 775786,
+    "num_beds": 5
+  },
+  {
+    "price": 854836,
+    "num_beds": 1
+  },
+  {
+    "price": 79432,
+    "num_beds": 1
+  },
+  {
+    "price": 825309,
+    "num_beds": 1
+  },
+  {
+    "price": 77338,
+    "num_beds": 1
+  },
+  {
+    "price": 849625,
+    "num_beds": 1
+  },
+  {
+    "price": 95617,
+    "num_beds": 1
+  },
+  {
+    "price": 981841,
+    "num_beds": 1
+  },
+  {
+    "price": 85129,
+    "num_beds": 1
+  },
+  {
+    "price": 988365,
+    "num_beds": 2
+  },
+  {
+    "price": 55988,
+    "num_beds": 2
+  },
+  {
+    "price": 888375,
+    "num_beds": 2
+  },
+  {
+    "price": 65641,
+    "num_beds": 2
+  },
+  {
+    "price": 928878,
+    "num_beds": 2
+  },
+  {
+    "price": 90119,
+    "num_beds": 2
+  },
+  {
+    "price": 832331,
+    "num_beds": 2
+  },
+  {
+    "price": 82102,
+    "num_beds": 2
+  },
+  {
+    "price": 929389,
+    "num_beds": 3
+  },
+  {
+    "price": 66670,
+    "num_beds": 3
+  },
+  {
+    "price": 878532,
+    "num_beds": 3
+  },
+  {
+    "price": 64865,
+    "num_beds": 3
+  },
+  {
+    "price": 832649,
+    "num_beds": 3
+  },
+  {
+    "price": 90784,
+    "num_beds": 3
+  },
+  {
+    "price": 977567,
+    "num_beds": 3
+  },
+  {
+    "price": 79621,
+    "num_beds": 3
+  },
+  {
+    "price": 921536,
+    "num_beds": 4
+  },
+  {
+    "price": 56822,
+    "num_beds": 4
+  },
+  {
+    "price": 963239,
+    "num_beds": 4
+  },
+  {
+    "price": 99685,
+    "num_beds": 4
+  },
+  {
+    "price": 922710,
+    "num_beds": 4
+  },
+  {
+    "price": 93037,
+    "num_beds": 4
+  },
+  {
+    "price": 837015,
+    "num_beds": 4
+  },
+  {
+    "price": 78977,
+    "num_beds": 4
+  },
+  {
+    "price": 967619,
+    "num_beds": 5
+  },
+  {
+    "price": 55055,
+    "num_beds": 5
+  },
+  {
+    "price": 928749,
+    "num_beds": 5
+  },
+  {
+    "price": 84721,
+    "num_beds": 5
+  },
+  {
+    "price": 895027,
+    "num_beds": 5
+  },
+  {
+    "price": 78801,
+    "num_beds": 5
+  },
+  {
+    "price": 988270,
+    "num_beds": 5
+  },
+  {
+    "price": 81926,
+    "num_beds": 5
+  }
+]

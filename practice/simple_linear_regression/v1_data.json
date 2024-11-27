@@ -1,0 +1,42 @@
+[
+  {
+    "price": 100000,
+    "num_beds": 1
+  },
+  {
+    "price": 150000,
+    "num_beds": 2
+  },
+  {
+    "price": 110000,
+    "num_beds": 1
+  },
+  {
+    "price": 300000,
+    "num_beds": 3
+  },
+  {
+    "price": 100000,
+    "num_beds": 1
+  },
+  {
+    "price": 450000,
+    "num_beds": 4
+  },
+  {
+    "price": 95000,
+    "num_beds": 1
+  },
+  {
+    "price": 379000,
+    "num_beds": 4
+  },
+  {
+    "price": 210000,
+    "num_beds": 2
+  },
+  {
+    "price": 100000,
+    "num_beds": 1
+  }
+]
