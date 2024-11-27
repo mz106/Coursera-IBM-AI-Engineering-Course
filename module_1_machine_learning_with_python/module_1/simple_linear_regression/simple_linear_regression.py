@@ -148,3 +148,4 @@ prediction_one = predict_score(data, 1, theta_0, theta_1, mae)
 prediction_two = predict_score(data, 9, theta_0, theta_1, mae)
 
 print("prediction 1 - 1hr: ", prediction_one, "prediction 2 - 9hrs: ", prediction_two)
+
